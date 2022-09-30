@@ -65,6 +65,14 @@
       "decimals": 18,
       "chainId": 5,
       "logoURI": "https://www.datocms-assets.com/64244/1658154806-shipper_logo.jpeg"
+    },
+    {
+      "name": "INF Pre-IPO: NEURALINK",
+      "address": "0xE9A8427CfcBACf3e334386B0444e1673Ebcc85D2",
+      "symbol": "INF-NEURALINK",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://www.datocms-assets.com/64244/1656015780-yxdzggbjk9yxhl2g2t1s.webp"
     }
   ]
 }
