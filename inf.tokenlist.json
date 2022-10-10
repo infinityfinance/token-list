@@ -73,6 +73,14 @@
       "decimals": 18,
       "chainId": 5,
       "logoURI": "https://www.datocms-assets.com/64244/1656015780-yxdzggbjk9yxhl2g2t1s.webp"
+    },
+    {
+      "name": "INF Pre-IPO: SPACEX",
+      "address": "0x65E1565a38402bfcbde86564CaF1807E89145385",
+      "symbol": "INF-SPACEX",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://www.datocms-assets.com/64244/1646235926-spacex-logo.png"
     }
   ]
 }
