@@ -19,6 +19,22 @@
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
+      "name": "Tether USD",
+      "address": "0x397D38F68c583Fc7a2673dACFB2649C4D1413934",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
       "name": "INF Pre-IPO: BYJU'S",
       "address": "0x65d10a93c37a3f1e204d11ba67431bd34d5310d0",
       "symbol": "INF-BYJU'S",
@@ -41,14 +57,6 @@
       "decimals": 18,
       "chainId": 42,
       "logoURI": "https://infinity-finance.s3.eu-central-1.amazonaws.com/a7ae37f08630e9cf566eb454fb2872752877b165.jpg"
-    },
-    {
-      "name": "Tether USD",
-      "address": "0x397D38F68c583Fc7a2673dACFB2649C4D1413934",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
       "name": "INF Pre-IPO: DISC",
