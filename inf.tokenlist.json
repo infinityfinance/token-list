@@ -35,54 +35,6 @@
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-      "name": "INF Pre-IPO: BYJU'S",
-      "address": "0x65d10a93c37a3f1e204d11ba67431bd34d5310d0",
-      "symbol": "INF-BYJU'S",
-      "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://marketx-deal-company-logos.s3.us-west-1.amazonaws.com/byjus.jpeg"
-    },
-    {
-      "name": "INF Pre-IPO: MOJO",
-      "address": "0xc533cd289ab0cf03a3aa6704a3b436d497c8b47e",
-      "symbol": "INF-MOJO",
-      "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://infinity-finance.s3.eu-central-1.amazonaws.com/6b1daf225526ceabcce41cacf9f256efb9229dd2.jpg"
-    },
-    {
-      "name": "INF Pre-IPO: DISC",
-      "address": "0x5d1F986D56cE756E1A93dd50Cad95866C634dd17",
-      "symbol": "INF-DISC",
-      "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://infinity-finance.s3.eu-central-1.amazonaws.com/a7ae37f08630e9cf566eb454fb2872752877b165.jpg"
-    },
-    {
-      "name": "INF Pre-IPO: DISC",
-      "address": "0x25647c737612EBecbE63B8bd3EF98C62F8E77812",
-      "symbol": "INF-DISC",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://infinity-finance.s3.eu-central-1.amazonaws.com/a7ae37f08630e9cf566eb454fb2872752877b165.jpg"
-    },
-    {
-      "name": "INF Pre-IPO: SHIP",
-      "address": "0x8413E09Cd0999C62B7CFbcD36AB38c1D6B0f0CF2",
-      "symbol": "INF-SHIP",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://www.datocms-assets.com/64244/1658154806-shipper_logo.jpeg"
-    },
-    {
-      "name": "INF Pre-IPO: NEURAL",
-      "address": "0xE9A8427CfcBACf3e334386B0444e1673Ebcc85D2",
-      "symbol": "INF-NEURAL",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://www.datocms-assets.com/64244/1656015780-yxdzggbjk9yxhl2g2t1s.webp"
-    },
-    {
       "name": "INF Pre-IPO: SPACEX",
       "address": "0xb436ffC0C551B6708e5Ca1E0961fefB092907682",
       "symbol": "INF-SPACEX",
