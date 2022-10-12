@@ -33,6 +33,14 @@
       "decimals": 18,
       "chainId": 5,
       "logoURI": "https://www.datocms-assets.com/64244/1646235926-spacex-logo.png"
+    },
+    {
+      "name": "INF Pre-IPO: NLK",
+      "address": "0xb14A6Ae7aAADe034FA97D8Aa4374BeFf64CB0a7b",
+      "symbol": "INF-NLK",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://www.datocms-assets.com/64244/1656015780-yxdzggbjk9yxhl2g2t1s.webp"
     }
   ]
 }
